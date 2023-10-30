@@ -1,0 +1,17 @@
+C:\Users\213001\source\repos\213001_VP(MID)\213001_VP(MID)\bin\Debug\net6.0-windows\213001_VP(MID).exe
+C:\Users\213001\source\repos\213001_VP(MID)\213001_VP(MID)\bin\Debug\net6.0-windows\213001_VP(MID).deps.json
+C:\Users\213001\source\repos\213001_VP(MID)\213001_VP(MID)\bin\Debug\net6.0-windows\213001_VP(MID).runtimeconfig.json
+C:\Users\213001\source\repos\213001_VP(MID)\213001_VP(MID)\bin\Debug\net6.0-windows\213001_VP(MID).dll
+C:\Users\213001\source\repos\213001_VP(MID)\213001_VP(MID)\bin\Debug\net6.0-windows\213001_VP(MID).pdb
+C:\Users\213001\source\repos\213001_VP(MID)\213001_VP(MID)\obj\Debug\net6.0-windows\213001_VP(MID).csproj.AssemblyReference.cache
+C:\Users\213001\source\repos\213001_VP(MID)\213001_VP(MID)\obj\Debug\net6.0-windows\_213001_VP_MID_.Form1.resources
+C:\Users\213001\source\repos\213001_VP(MID)\213001_VP(MID)\obj\Debug\net6.0-windows\213001_VP(MID).csproj.GenerateResource.cache
+C:\Users\213001\source\repos\213001_VP(MID)\213001_VP(MID)\obj\Debug\net6.0-windows\213001_VP(MID).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\213001\source\repos\213001_VP(MID)\213001_VP(MID)\obj\Debug\net6.0-windows\213001_VP(MID).AssemblyInfoInputs.cache
+C:\Users\213001\source\repos\213001_VP(MID)\213001_VP(MID)\obj\Debug\net6.0-windows\213001_VP(MID).AssemblyInfo.cs
+C:\Users\213001\source\repos\213001_VP(MID)\213001_VP(MID)\obj\Debug\net6.0-windows\213001_VP(MID).csproj.CoreCompileInputs.cache
+C:\Users\213001\source\repos\213001_VP(MID)\213001_VP(MID)\obj\Debug\net6.0-windows\213001_VP(MID).dll
+C:\Users\213001\source\repos\213001_VP(MID)\213001_VP(MID)\obj\Debug\net6.0-windows\refint\213001_VP(MID).dll
+C:\Users\213001\source\repos\213001_VP(MID)\213001_VP(MID)\obj\Debug\net6.0-windows\213001_VP(MID).pdb
+C:\Users\213001\source\repos\213001_VP(MID)\213001_VP(MID)\obj\Debug\net6.0-windows\213001_VP(MID).genruntimeconfig.cache
+C:\Users\213001\source\repos\213001_VP(MID)\213001_VP(MID)\obj\Debug\net6.0-windows\ref\213001_VP(MID).dll
