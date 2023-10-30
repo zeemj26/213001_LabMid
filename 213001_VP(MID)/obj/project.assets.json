@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\213001\\source\\repos\\213001_VP(MID)\\213001_VP(MID)\\213001_VP(MID).csproj",
+      "projectUniqueName": "Z:\\213001_VP(MID)\\213001_VP(MID)\\213001_VP(MID).csproj",
       "projectName": "213001_VP(MID)",
-      "projectPath": "C:\\Users\\213001\\source\\repos\\213001_VP(MID)\\213001_VP(MID)\\213001_VP(MID).csproj",
+      "projectPath": "Z:\\213001_VP(MID)\\213001_VP(MID)\\213001_VP(MID).csproj",
       "packagesPath": "C:\\Users\\213001\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\213001\\source\\repos\\213001_VP(MID)\\213001_VP(MID)\\obj\\",
+      "outputPath": "Z:\\213001_VP(MID)\\213001_VP(MID)\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\213001\\AppData\\Roaming\\NuGet\\NuGet.Config",
